@@ -3,7 +3,7 @@ title: "Simple document"
 output: html_document
 ---
 
-I'm an R Markdown document! 
+I'm an amazing R Markdown document! 
 
 # Section 1
 
